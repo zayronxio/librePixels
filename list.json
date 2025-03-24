@@ -1,0 +1,33 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "mailbox in Triticum",
+      "url": "https://ejemplo.com/wallpapers/mountains.jpg",
+      "category": "naturaleza",
+      "author": "librepixels(ia)"
+    },
+    {
+      "id": 2,
+      "title": "misty beach",
+      "url": "https://live.staticflickr.com/65535/54407271592_a4159c5d6a_h.jpg",
+      "category": "naturaleza",
+      "author": "librepixels(ia)"
+    },
+    {
+      "id": 3,
+      "title": "broke.stone",
+      "url": "https://live.staticflickr.com/65535/54407392737_d1d4aff7b7_h.jpg",
+      "category": "abstracto",
+      "author": "librepixels(ia)"
+    }
+    {
+      "id": 4,
+      "title": "MistyOrange",
+      "url": "https://live.staticflickr.com/65535/54408444909_0875fd9160_o.jpg",
+      "category": "abstracto",
+      "author": "librepixels(ia)"
+    }
+  ],
+  "categories": ["naturaleza", "urbano", "abstracto", "tecnología", "anime"]
+}
